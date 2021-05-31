@@ -1,0 +1,12 @@
+p {
+    color: red;
+    background-color: yellow;
+    font-weight: bold;
+    text-align: center;
+}
+.strong {
+    color:red;
+}
+h1 {
+    text-shadow: 5px 5px 10px #00FF00;
+}
