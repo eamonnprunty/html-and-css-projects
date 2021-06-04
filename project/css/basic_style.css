@@ -24,7 +24,7 @@ h1{
     color: #fff;
     float: left;
     width: 100px;
-    height: 100x;
+    height: 100px;
     margin: 5px;
     border: 1px solid black;
     border-radius: 25%;
@@ -37,7 +37,7 @@ h1{
    ----------------------------*/
 .squares:nth-child(-n+4) p{
     font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
-    font-size: 1.5cm;
+    font-size: 1.5em;
     font-weight: 300;
     text-align: center;
     margin: 0;
