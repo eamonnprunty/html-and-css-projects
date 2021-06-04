@@ -30,7 +30,7 @@ body {
 .menu li {
     color: #B3B3B3;
     display: inline;
-    margin-right: -2px;
+    margin-right: -4px;
     position: relative;
     padding: 12px 40px;
     border: 1px solid #9D9FA2;
@@ -48,7 +48,7 @@ body {
     display: block;
     opacity: 1;
     /*While hovered, drop down menu appears. This also avoids a block-level bug*/
-    visibility: visible;
+    visibility: visible;  
 }
 
 .submenu {
