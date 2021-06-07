@@ -105,3 +105,15 @@ PHOTO OVERLAY TRANSITION
 .photo:hover img {
     transform:scale(1);
 }
+
+/*===================================================
+VIDEO ANIMATIONS
+===================================================*/
+
+iframe {
+    width: 727px;
+    height: 409px;
+    margin: 0 auto;
+    background-color: #777;
+    display: block;
+}
