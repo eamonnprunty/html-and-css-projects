@@ -1,0 +1,14 @@
+h1, h2, h3, h4, h5, h6, p {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: larger;
+}
+
+.form[type="text"] {
+    width: auto;
+    margin: auto;
+    border: black;
+    border-radius: 0%;
+}
